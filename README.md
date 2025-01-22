@@ -1,5 +1,9 @@
 # HI THERE
 
+**In this page, i like to share** 
+- web programing, using js in evrywere
+- MicroController things.
+- cli, just make it simple (idk how to make desk app)
+ 
 > [!IMPORTANT]
-> uhhg..
-
+> Dont forget to see my pinned poject!
