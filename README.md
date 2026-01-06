@@ -5,8 +5,8 @@
 
 **In this page, i like to share** 
 - web programing, using js in evrywere
-- MicroController things.
-- cli app with 🦀
+- automation things.
+- cli/tui app with 🦀
    
 > [!IMPORTANT]
 > Dont forget to see my pinned poject!
