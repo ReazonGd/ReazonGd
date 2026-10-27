@@ -3,8 +3,9 @@
 > see my porto website ✨
 > [reazongd.my.id](https://reazon.my.id/)
 
-**In this page, i like to share** 
-- web programing, using js in evrywere
+**What i do most** 
+- web programing, using js in evrywere.
+- rust web server
 - automation things.
 - cli/tui app with rust 🦀
    
